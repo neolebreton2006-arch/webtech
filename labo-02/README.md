@@ -1,16 +1,16 @@
 # Labo 2 - reflecties
 
-Naam: (jouw naam)
+Naam: Neo Le Breton
 
 ## 2. Selectors lezen
 
 Welke elementen raakt elke selector? Eén zin per selector.
 
-- a. `header nav ul li a`: 
-- b. `article > p`: 
-- c. `.uren li:nth-child(3)`: 
-- d. `h2 ~ p`: 
-- e. `.rassen li:first-child`: 
+- a. alle links in de header `header nav ul li a`: 
+- b. de p's die een directe child zijn van article `article > p`: 
+- c. de derde li van de class uren `.uren li:nth-child(3)`: 
+- d. elke p die na h2 komt `h2 ~ p`: 
+- e. de eerste li van de class rassen `.rassen li:first-child`: 
 
 ## 3. Voorspel, dan kijk
 
@@ -18,9 +18,9 @@ Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, speci
 
 | vraag | mijn voorspelling (kleur) | beslissende trede | uitkomst in de browser | juist? |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | groen | de links |  | |
+| 2 | blauw | tweede is juist | | |
+| 3 | class =rood, em = blauw |  | | |
 | 4 | | | | |
 | 5 | | | | |
 | 6 | | | | |
